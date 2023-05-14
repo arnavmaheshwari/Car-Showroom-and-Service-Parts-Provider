@@ -1,0 +1,6 @@
+1.Paste file in any drive(preferrably, drive chosen should be other than C Drive)
+2.Open MySQL:-
+  (a)create databse (name of file pasted);
+  (b)use name of file pasted;
+  (c)source E:/(name of file pasted).sql;
+3.To use the database: use (name of file pasted);
